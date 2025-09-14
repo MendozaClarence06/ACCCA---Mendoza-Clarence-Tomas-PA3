@@ -8,9 +8,13 @@ Display the first five and last five rows of the resulting cars. The data used t
 
 #### Second code (Mendoza_Pandas-P2): 4 PART PROBLEM:
 Using the dataframe cars in problem 1, extract the following information using subsetting, slicing and indexing operations.
+
 a. Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7...) of cars.
+
 b. Display the row that contains the ‘Model’ of ‘Mazda RX4’.
+
 c. How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
+
 d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
 
 
