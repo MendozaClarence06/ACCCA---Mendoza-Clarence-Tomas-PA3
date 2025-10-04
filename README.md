@@ -65,3 +65,5 @@ With multiple models, they will counteract the conditions of the loc function se
 For this set of codes, input is actually not required and is only to be ran. No need to change the code unless want to remove the print code in the lines and remove them to show data. The use of print is just to show cleaner or better use for the user.
 
 Note: These descriptions are all copied and or formulated from the instructions in PA2 assignment in ACCA UST.
+
+README Version 2.
